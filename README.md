@@ -42,15 +42,11 @@ An interactive Power BI dashboard designed to analyze Uber ride bookings, revenu
 
 ### Homepage
 
-
 ![Homepage](screenshots/Uberp1.png)
-
 
 ### Overview Dashboard
 
-
 ![Overview Dashboard](screenshots/uberp2.png)
-
 
 ---
 
