@@ -42,26 +42,26 @@ An interactive Power BI dashboard designed to analyze Uber ride bookings, revenu
 
 ### Homepage
 
-(Uberp1.png)
+
+![Homepage](screenshots/Uberp1.png)
 
 
 ### Overview Dashboard
 
 
-(uberp2.png)
+![Overview Dashboard](screenshots/uberp2.png)
 
 
-
+---
 
 ## 📂 Project Structure
 
-```text
+```text id="e0b3yc"
 Uber-PowerBI-Dashboard/
 │
 ├── Uber_Dashboard.pbix
 ├── README.md
 ├── screenshots/
-│   ├── homepage.png
-│   └── overview.png
+│   ├── Uberp1.png
+│   └── uberp2.png
 ```
-
